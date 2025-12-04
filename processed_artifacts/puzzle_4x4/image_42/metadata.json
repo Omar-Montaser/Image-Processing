@@ -1,7 +1,7 @@
 {
   "image_path": "./Gravity Falls\\puzzle_4x4\\42.jpg",
-  "grid_size": 8,
-  "num_pieces": 64,
+  "grid_size": 4,
+  "num_pieces": 16,
   "image_shape": [
     224,
     224,
